@@ -6,6 +6,7 @@ on:
       - main
       - master
       - production
+  workflow_dispatch:
 
 jobs:
   publish:
